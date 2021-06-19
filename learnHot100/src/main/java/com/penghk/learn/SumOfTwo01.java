@@ -9,7 +9,7 @@ import java.util.Map;
  * @Author:hangkong.peng
  * @Date: 2021/6/18 11:11
  */
-public class SumOfTwo {
+public class SumOfTwo01 {
 
     public static int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> map = new HashMap<Integer, Integer>();

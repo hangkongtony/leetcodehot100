@@ -6,7 +6,7 @@ import java.util.BitSet;
  * @Author:hangkong.peng
  * @Date: 2021/6/18 16:44
  */
-public class LengthOfLongestSubstring {
+public class LengthOfLongestSubstring03 {
 
 
     public int lengthOfLongestSubstring(String s) {

@@ -6,7 +6,7 @@ import java.util.Objects;
  * @Author:hangkong.peng
  * @Date: 2021/6/18 11:36
  */
-public class AddTwoNumbers {
+public class AddTwoNumbers02 {
 
 
     public static class ListNode {
